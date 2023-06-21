@@ -26,7 +26,7 @@ const App = () => {
                   <option value="">Select Size</option>
                   <option value="small">Small</option>
                   <option value="medium">Medium</option>
-                  <option value="large">large</option>
+                  <option value="large">Large</option>
                 </select>
               </div>
             )
